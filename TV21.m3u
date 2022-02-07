@@ -1,306 +1,1328 @@
-#EXTM3U
-#EXTINF:-1 group-title="Lista 22",AZTECA UNO MX
-http://blackaddon.com/play/futvall-209.php?id=aztecauno&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",CANAL 2 MX
-http://blackaddon.com/play/futvall-209.php?id=eldos&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",CANAL 5 MX
-http://blackaddon.com/play/futvall-209.php?id=elcinco&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",AZTECA 7 MX
-http://blackaddon.com/play/futvall-209.php?id=azteca7&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",NUEVE
-http://blackaddon.com/play/futvall-209.php?id=elnueve&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",IMAGEN TV
-http://blackaddon.com/play/futvall-209.php?id=imagentv&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",STAR ACTION
-http://blackaddon.com/play/futvall-209.php?id=staraction&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",SPACE
-http://blackaddon.com/play/futvall-209.php?id=space&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",ADRENALINA
-http://blackaddon.com/play/futvall-209.php?id=adrenalina&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",AFIZZIONADOS
-http://blackaddon.com/play/futvall-209.php?id=afizzionados&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",AyM Sports
-http://blackaddon.com/play/futvall-209.php?id=aymsports&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",BASKET AMERICAS
-http://blackaddon.com/play/futvall-209.php?id=basket&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",BEIN SPORTS Ñ
-http://blackaddon.com/play/futvall-209.php?id=beines&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",BEIN US HD
-http://blackaddon.com/play/futvall-209.php?id=beinhd&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",DIRECTV SPORTS
-http://blackaddon.com/play/futvall-209.php?id=directv&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",DIRECTV 2
-http://blackaddon.com/play/futvall-209.php?id=directv2&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",CLARO SPORTS
-http://blackaddon.com/play/futvall-209.php?id=clarosports&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",ESPN Deportes
-http://blackaddon.com/play/futvall-209.php?id=espndep&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",ESPN 1 MX
-http://blackaddon.com/play/futvall-209.php?id=espn1-mx&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",ESPN 2 MX
-http://blackaddon.com/play/futvall-209.php?id=espn2-mx&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",ESPN 3 MX
-http://blackaddon.com/play/futvall-209.php?id=espn3-mx&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",ESPN EXTRA
-http://blackaddon.com/play/futvall-209.php?id=espnextra-mx&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",FOX SPORTS 1 MX
-http://blackaddon.com/play/futvall-209.php?id=foxsports1-mx&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",FOX SPORTS 2 MX
-http://blackaddon.com/play/futvall-209.php?id=foxsports2-mx&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",FOX SPORTS 3 MX
-http://blackaddon.com/play/futvall-209.php?id=foxsports3-mx&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",FOX SPORTS PREMIUM
-http://blackaddon.com/play/futvall-209.php?id=foxsportsp&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",GALAVISION
-http://blackaddon.com/play/futvall-209.php?id=galavision&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",GOL PERU
-http://blackaddon.com/play/futvall-209.php?id=golperu&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",GOLTV
-http://blackaddon.com/play/futvall-209.php?id=goltv&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",GOLF CHANNEL
-http://blackaddon.com/play/futvall-209.php?id=golf&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",HAVOC
-http://blackaddon.com/play/futvall-209.php?id=havoc&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",NFL NETWORK
-http://blackaddon.com/play/futvall-209.php?id=nfl&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",LAS Deportes
-http://blackaddon.com/play/futvall-209.php?id=las&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",LALIGA
-http://blackaddon.com/play/futvall-209.php?id=laliga&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",M LALIGA
-http://blackaddon.com/play/futvall-209.php?id=mlaliga&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",M LIGA DE CAMPEONES
-http://blackaddon.com/play/futvall-209.php?id=mligadec&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",TELEMUNDO
-http://blackaddon.com/play/futvall-209.php?id=telemundo&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",TUDN MX
-http://blackaddon.com/play/futvall-209.php?id=tudn-mx&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",TUDN US
-http://blackaddon.com/play/futvall-209.php?id=tudn-us&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",TVC Deportes
-http://blackaddon.com/play/futvall-209.php?id=tvcdep-mx&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",TyC SPORTS
-http://blackaddon.com/play/futvall-209.php?id=tycsports&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",UNIMAS
-http://blackaddon.com/play/futvall-209.php?id=unimas&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",UNIVERSO
-http://blackaddon.com/play/futvall-209.php?id=universo&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",NBC SPORTS NET
-http://blackaddon.com/play/futvall-209.php?id=nbcsn&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",WIN SPORTS
-http://blackaddon.com/play/futvall-209.php?id=winsports&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",WIN SPORTS PLUS
-http://blackaddon.com/play/futvall-209.php?id=winplus&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",FIGHT TIME
-http://blackaddon.com/play/futvall-209.php?id=fight&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",UFC
-http://blackaddon.com/play/futvall-209.php?id=ufc&k=b1ackghoooooost&f=.m3u8
-#EXTINF:-1 group-title="Lista 22",WWE
-http://blackaddon.com/play/futvall-209.php?id=wwe&k=b1ackghoooooost&f=.m3u8
+#EXTM3U url-tvg="http://m3u4u.com/epg/83m97yp8gvurmp8ydxq5"
 
-
-
-#EXTINF:-1 group-title="Lista 22",--------------
-http://blackaddon.com/play/s&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L0zLsl9.png"   group-title="Lista 28 solo OTT",BLACKGHOST 28
+http://blackaddon.com/TV&f=.m3u8.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3akxcS6.png"  group-title="Lista 28 solo OTT", Apoya este proyecto
+http://blackaddon.com/tvx.php?opcion=latina&c=.m3u8.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3akxcS6.png"  group-title="Lista 28 solo OTT", http://paypal.me/blackghost
+http://blackaddon.com/tvx.php?opcion=latina&c=
 
 
 
 
 
+#EXTINF:-1 tvg-id="Canal24Horas.mx" tvg-name="24 Hrs"  group-title="Lista 28 solo OTT",24 Hrs
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live4-ott.izzigo.tv/out/u/dash/24-HRS-SD/default.mpd
+#EXTINF:-1 tvg-id="AMAS.mx" tvg-name="A Plus"  group-title="Lista 28 solo OTT",A Plus
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live5-ott.izzigo.tv/out/u/dash/RDF-MTY-A-plus-SD/default.mpd
+#EXTINF:-1 tvg-id="Antena3.mx" tvg-name="A3 Cine"  group-title="Lista 28 solo OTT",A3 Cine
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live3-ott.izzigo.tv/out/u/dash/A3-CINE-HD/default.mpd
+#EXTINF:-1 tvg-id="adn40.mx" tvg-name="Adn 40"  group-title="Lista 28 solo OTT",Adn 40
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live3-ott.izzigo.tv/out/u/dash/ADN-40-SD/default.mpd
+#EXTINF:-1 tvg-id="AdrenalinaSportsNetwork.mx" tvg-name="Adrenalina"  group-title="Lista 28 solo OTT",Adrenalina
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live1-ott.izzigo.tv/out/u/dash/ADRENALINA-HD/default.mpd
+#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados"  group-title="Lista 28 solo OTT",Afizzionados
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live1-ott.izzigo.tv/out/u/dash/AFIZZIONADOS-HD/default.mpd
+#EXTINF:-1 tvg-id="AlJazeera(English).mx" tvg-name="Al Jazeera"  group-title="Lista 28 solo OTT",Al Jazeera
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live4-ott.izzigo.tv/out/u/dash/AL-JAZEERA-HD/default.mpd
+#EXTINF:-1 tvg-id="AMC.mx" tvg-name="Amc"  group-title="Lista 28 solo OTT",Amc
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live4-ott.izzigo.tv/out/u/dash/AMC-HD/default.mpd
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet"  group-title="Lista 28 solo OTT",Animal Planet
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live2-ott.izzigo.tv/out/u/dash/ANIMAL-PLANET-HD/default.mpd
+#EXTINF:-1 tvg-id="Antena3.mx" tvg-name="Antena 3"  group-title="Lista 28 solo OTT",Antena 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live5-ott.izzigo.tv/out/u/dash/ANTENA3-HD/default.mpd
+#EXTINF:-1 tvg-id="Atreseries.mx" tvg-name="Atres Series"  group-title="Lista 28 solo OTT",Atres Series
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live2-ott.izzigo.tv/out/u/dash/ATRES-SERIES-HD/default.mpd
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="Axn"  group-title="Lista 28 solo OTT",Axn
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live3-ott.izzigo.tv/out/u/dash/AXN-HD/default.mpd
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7"  group-title="Lista 28 solo OTT",Azteca 7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno"  group-title="Lista 28 solo OTT",Azteca Uno
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.mpd
+#EXTINF:-1 tvg-id="XHDFAztecaUno(2HDelay).mx" tvg-name="Azteca Uno 2hr"  group-title="Lista 28 solo OTT",Azteca Uno 2hr
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-2HRS-SD/default.mpd
+#EXTINF:-1 tvg-id="BabyTv.mx" tvg-name="Baby Tv"  group-title="Lista 28 solo OTT",Baby Tv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live4-ott.izzigo.tv/out/u/dash/BABY-TV-SD/default.mpd
+#EXTINF:-1 tvg-id="BBCWorldNews(English).mx" tvg-name="Bbc Word"  group-title="Lista 28 solo OTT",Bbc Word
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live3-ott.izzigo.tv/out/u/dash/BBC-WORLD-NEWS-SD/default.mpd
+#EXTINF:-1 tvg-id="Bitme.mx" tvg-name="Bitme"  group-title="Lista 28 solo OTT",Bitme
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live4-ott.izzigo.tv/out/u/dash/BIT-ME-HD/default.mpd
+#EXTINF:-1 tvg-id="Bloomberg.mx" tvg-name="Blomberg Mexico"  group-title="Lista 28 solo OTT",Blomberg Mexico
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live1-ott.izzigo.tv/out/u/dash/EL-FINANCIERO-HD/default.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boomerang"  group-title="Lista 28 solo OTT",Boomerang
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live2-ott.izzigo.tv/out/u/dash/BOOMERANG-HD/default.mpd
+#EXTINF:-1 tvg-id="CANAL22INTERNACIONAL.mx" tvg-name="Canal 22"  group-title="Lista 28 solo OTT",Canal 22
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live2-ott.izzigo.tv/out/u/dash/CANAL-22-2-SD/default.mpd
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5"  group-title="Lista 28 solo OTT",Canal 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
+#EXTINF:-1 tvg-id="CanalNu9ve.mx" tvg-name="Canal 9"  group-title="Lista 28 solo OTT",Canal 9
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live1-ott.izzigo.tv/out/u/dash/CANAL-9-HD/default.mpd
+#EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal Catorce"  group-title="Lista 28 solo OTT",Canal Catorce
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live5-ott.izzigo.tv/out/u/dash/RDF-MTY-Canal-Catorce-HD/default.mpd
+#EXTINF:-1 tvg-id="CongresoNacionalTV.mx" tvg-name="Canal Del Congreso"  group-title="Lista 28 solo OTT",Canal Del Congreso
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://d1ynfzqkzrrwzs.cloudfront.net/out/v1/e90d3aa8e1054a839cd93faebfbbae73/default.mpd
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network"  group-title="Lista 28 solo OTT",Cartoon Network
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live4-ott.izzigo.tv/out/u/dash/CARTOON-NETWORK-HD/default.mpd
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal O"  group-title="Lista 28 solo OTT",Cinecanal O
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live4-ott.izzigo.tv/out/u/dash/CINECANAL-HD/default.mpd
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax O"  group-title="Lista 28 solo OTT",Cinemax O
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live5-ott.izzigo.tv/out/u/dash/CINEMAX-HD/default.mpd
+#EXTINF:-1 tvg-id="ClanTv.mx" tvg-name="Clan"  group-title="Lista 28 solo OTT",Clan
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live2-ott.izzigo.tv/out/u/dash/CLAN-HD/default.mpd
+#EXTINF:-1 tvg-id="CNN(English).mx" tvg-name="Cnn"  group-title="Lista 28 solo OTT",Cnn
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live4-ott.izzigo.tv/out/u/dash/CNN-HD/default.mpd
+#EXTINF:-1 tvg-id="CNNEnEspanol.mx" tvg-name="Cnn En Espanol"  group-title="Lista 28 solo OTT",Cnn En Espanol
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live3-ott.izzigo.tv/out/u/dash/CNN-EN-ESPANOL-SD/default.mpd
+#EXTINF:-1 tvg-id="CNNInternational(English).mx" tvg-name="Cnn Internacional"  group-title="Lista 28 solo OTT",Cnn Internacional
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live4-ott.izzigo.tv/out/u/dash/CNNI-SD/default.mpd
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="Comedy Central"  group-title="Lista 28 solo OTT",Comedy Central
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live2-ott.izzigo.tv/out/u/dash/COMEDY-CENTRAL-HD/default.mpd
+#EXTINF:-1 tvg-id="CVSHOPPING.mx" tvg-name="Cv Shopping"  group-title="Lista 28 solo OTT",Cv Shopping
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live5-ott.izzigo.tv/out/u/dash/CV-SHOPPING-SD/default.mpd
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="De Pelicula"  group-title="Lista 28 solo OTT",De Pelicula
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live2-ott.izzigo.tv/out/u/dash/DE-PELICULA-SD/default.mpd
+#EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="De Pelicula Plus"  group-title="Lista 28 solo OTT",De Pelicula Plus
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live4-ott.izzigo.tv/out/u/dash/DE-PELICULA-HD/default.mpd
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="Discovery Channel"  group-title="Lista 28 solo OTT",Discovery Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-CHANNEL-HD/default.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Home Garden"  group-title="Lista 28 solo OTT",Discovery Home Garden
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-HOME-AND-GARDEN-HD/default.mpd
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home Healt"  group-title="Lista 28 solo OTT",Discovery Home Healt
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-HOME-AND-HEALTH-HD/default.mpd
+#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="Discovery Kids"  group-title="Lista 28 solo OTT",Discovery Kids
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live1-ott.izzigo.tv/out/u/dash/DISCOVERY-KIDS-HD/default.mpd
+#EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="Discovery Science 2"  group-title="Lista 28 solo OTT",Discovery Science 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-SCIENCE-HD/default.mpd
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="Discovery Theater"  group-title="Lista 28 solo OTT",Discovery Theater
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live2-ott.izzigo.tv/out/u/dash/DISCOVERY-THEATER-HD/default.mpd
+#EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-name="Discovery Turbo"  group-title="Lista 28 solo OTT",Discovery Turbo
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-TURBO-HD/default.mpd
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="Discovery World"  group-title="Lista 28 solo OTT",Discovery World
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live2-ott.izzigo.tv/out/u/dash/DISCOVERY-WORLD-HD/default.mpd
+#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="Disney Channel"  group-title="Lista 28 solo OTT",Disney Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live2-ott.izzigo.tv/out/u/dash/DISNEY-CHANNEL-HD/default.mpd
+#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="Disney Jr"  group-title="Lista 28 solo OTT",Disney Jr
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live5-ott.izzigo.tv/out/u/dash/DISNEY-JR-HD/default.mpd
+#EXTINF:-1 tvg-id="DisneyXD.mx" tvg-name="Disney Xd"  group-title="Lista 28 solo OTT",Disney Xd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live5-ott.izzigo.tv/out/u/dash/DISNEY-XD-HD/default.mpd
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia"  group-title="Lista 28 solo OTT",Distrito Comedia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live4-ott.izzigo.tv/out/u/dash/DISTRITO-COMEDIA-SD/default.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dogtv"  group-title="Lista 28 solo OTT",Dogtv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live4-ott.izzigo.tv/out/u/dash/DOGTV-SD/default.mpd
+#EXTINF:-1 tvg-id="DW(English).mx" tvg-name="Dw Amerika"  group-title="Lista 28 solo OTT",Dw Amerika
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live5-ott.izzigo.tv/out/u/dash/DW-AMERIKA-SD/default.mpd
+#EXTINF:-1 tvg-id="DWEspanol.mx" tvg-name="Dw Espanol"  group-title="Lista 28 solo OTT",Dw Espanol
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live5-ott.izzigo.tv/out/u/dash/DW-ESPANOL-SD/default.mpd
+#EXTINF:-1 tvg-id="EEntertainmentTV.mx" tvg-name="E"  group-title="Lista 28 solo OTT",E
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live3-ott.izzigo.tv/out/u/dash/E-Entertainment-HD/default.mpd
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="Ea"  group-title="Lista 28 solo OTT",Ea
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live3-ott.izzigo.tv/out/u/dash/AANDE-HD/default.mpd
+#EXTINF:-1 tvg-id="ElGourmet.mx" tvg-name="El Gourmet"  group-title="Lista 28 solo OTT",El Gourmet
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live1-ott.izzigo.tv/out/u/dash/GOURMET-HD/default.mpd
+#EXTINF:-1 tvg-id="ENLACETV.mx" tvg-name="Enlace"  group-title="Lista 28 solo OTT",Enlace
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live5-ott.izzigo.tv/out/u/dash/ENLACE-SD/default.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Esne"  group-title="Lista 28 solo OTT",Esne
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live5-ott.izzigo.tv/out/u/dash/ESNE-SD/default.mpd
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="Espn"  group-title="Lista 28 solo OTT",Espn
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-HD/default.mpd
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="Espn 2"  group-title="Lista 28 solo OTT",Espn 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-2-HD/default.mpd
+#EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="Espn 3"  group-title="Lista 28 solo OTT",Espn 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-3-HD/default.mpd
+#EXTINF:-1 tvg-id="ESPNEXTRA.mx" tvg-name="Espn Plus"  group-title="Lista 28 solo OTT",Espn Plus
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-PLUS-HD/default.mpd
+#EXTINF:-1 tvg-id="euronews.mx" tvg-name="Euronews"  group-title="Lista 28 solo OTT",Euronews
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live3-ott.izzigo.tv/out/u/dash/EURONEWS-SD/default.mpd
+#EXTINF:-1 tvg-id="EuropaEuropa.mx" tvg-name="Europa Europa"  group-title="Lista 28 solo OTT",Europa Europa
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live1-ott.izzigo.tv/out/u/dash/EUROPA-HD/default.mpd
+#EXTINF:-1 tvg-id="EWTN.mx" tvg-name="Ewtn"  group-title="Lista 28 solo OTT",Ewtn
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live1-ott.izzigo.tv/out/u/dash/EWTN-SD/default.mpd
+#EXTINF:-1 tvg-id="FilmandArts.mx" tvg-name="Fim Arts"  group-title="Lista 28 solo OTT",Fim Arts
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live4-ott.izzigo.tv/out/u/dash/FILM-AND-ARTS-HD/default.mpd
+#EXTINF:-1 tvg-id="FoodNetwork.mx" tvg-name="Food Network"  group-title="Lista 28 solo OTT",Food Network
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live1-ott.izzigo.tv/out/u/dash/FOOD-NET-HD/default.mpd
+#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro Tv"  group-title="Lista 28 solo OTT",Foro Tv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live2-ott.izzigo.tv/out/u/dash/FORO-TV-HD/default.mpd
+#EXTINF:-1 tvg-id="StarClassics.mx" tvg-name="Fox Classics"  group-title="Lista 28 solo OTT",Fox Classics
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live3-ott.izzigo.tv/out/u/dash/FOX-CLASSICS-HD/default.mpd
+#EXTINF:-1 tvg-id="STARCOMEDY.mx" tvg-name="Fox Comedy"  group-title="Lista 28 solo OTT",Fox Comedy
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live2-ott.izzigo.tv/out/u/dash/FOX-COMEDY-HD/default.mpd
+#EXTINF:-1 tvg-id="STARFUN.mx" tvg-name="Fox Family O"  group-title="Lista 28 solo OTT",Fox Family O
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live2-ott.izzigo.tv/out/u/dash/FOX-FAMILY-(WEST)-SD/default.mpd
+#EXTINF:-1 tvg-id="StarHits.mx" tvg-name="Fox Hits"  group-title="Lista 28 solo OTT",Fox Hits
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live3-ott.izzigo.tv/out/u/dash/FOX-MOVIES-HD/default.mpd
+#EXTINF:-1 tvg-id="FoxLife.mx" tvg-name="Fox Life"  group-title="Lista 28 solo OTT",Fox Life
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live2-ott.izzigo.tv/out/u/dash/FOX-LIFE-HD/default.mpd
+#EXTINF:-1 tvg-id="FoxNewsChannel.mx" tvg-name="Fox News"  group-title="Lista 28 solo OTT",Fox News
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live2-ott.izzigo.tv/out/u/dash/FOX-NEWS-HD/default.mpd
+#EXTINF:-1 tvg-id="Fox.mx" tvg-name="Fox O"  group-title="Lista 28 solo OTT",Fox O
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live2-ott.izzigo.tv/out/u/dash/FOX-HD/default.mpd
+#EXTINF:-1 tvg-id="StarAction.mx" tvg-name="Fox Premium Action E"  group-title="Lista 28 solo OTT",Fox Premium Action E
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live3-ott.izzigo.tv/out/u/dash/FOX-ACTION-HD/default.mpd
+#EXTINF:-1 tvg-id="StarAction.mx" tvg-name="Fox Premium Action O"  group-title="Lista 28 solo OTT",Fox Premium Action O
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live2-ott.izzigo.tv/out/u/dash/FOX-ACTION-(WEST)-SD/default.mpd
+#EXTINF:-1 tvg-id="STARCINEMA.mx" tvg-name="Fox Premium Cinema"  group-title="Lista 28 solo OTT",Fox Premium Cinema
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live4-ott.izzigo.tv/out/u/dash/FOX-CINEMA-HD/default.mpd
+#EXTINF:-1 tvg-id="STARFUN.mx" tvg-name="Fox Premium Family O"  group-title="Lista 28 solo OTT",Fox Premium Family O
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live2-ott.izzigo.tv/out/u/dash/FOX-FAMILY-HD/default.mpd
+#EXTINF:-1 tvg-id="StarSeries.mx" tvg-name="Fox Series E"  group-title="Lista 28 solo OTT",Fox Series E
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live4-ott.izzigo.tv/out/u/dash/FOX-1-SERIES-HD/default.mpd
+#EXTINF:-1 tvg-id="StarSeries.mx" tvg-name="Fox Series O"  group-title="Lista 28 solo OTT",Fox Series O
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live2-ott.izzigo.tv/out/u/dash/FOX-SERIES-(WEST)-SD/default.mpd
+#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports"  group-title="Lista 28 solo OTT",Fox Sports
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-HD/default.mpd
+#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2"  group-title="Lista 28 solo OTT",Fox Sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live4-ott.izzigo.tv/out/u/dash/FOX-SPORTS-2-HD/default.mpd
+#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Fox Sports 3"  group-title="Lista 28 solo OTT",Fox Sports 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-3-HD/default.mpd
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="Fx"  group-title="Lista 28 solo OTT",Fx
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live3-ott.izzigo.tv/out/u/dash/FX-HD/default.mpd
+#EXTINF:-1 tvg-id="FXMovies.mx" tvg-name="Fx Movies"  group-title="Lista 28 solo OTT",Fx Movies
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live5-ott.izzigo.tv/out/u/dash/FX-MOVIES-HD/default.mpd
+#EXTINF:-1 tvg-id="Glitz.mx" tvg-name="Glitz"  group-title="Lista 28 solo OTT",Glitz
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live4-ott.izzigo.tv/out/u/dash/GLITZ-SD/default.mpd
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden"  group-title="Lista 28 solo OTT",Golden
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-SD/default.mpd
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="Golden Edge"  group-title="Lista 28 solo OTT",Golden Edge
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-EDGE-SD/default.mpd
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden Hd"  group-title="Lista 28 solo OTT",Golden Hd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd
+#EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-name="Golden Premier"  group-title="Lista 28 solo OTT",Golden Premier
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live2-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER-HD/default.mpd
+#EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-name="Golden Premier 2hr"  group-title="Lista 28 solo OTT",Golden Premier 2hr
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER--2HR-HD/default.mpd
+#EXTINF:-1 tvg-id="History2.mx" tvg-name="H2"  group-title="Lista 28 solo OTT",H2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live3-ott.izzigo.tv/out/u/dash/HISTORY-2-HD/default.mpd
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="Hbo 2"  group-title="Lista 28 solo OTT",Hbo 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live5-ott.izzigo.tv/out/u/dash/HBO2-HD/default.mpd
+#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="Hbo Family"  group-title="Lista 28 solo OTT",Hbo Family
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live5-ott.izzigo.tv/out/u/dash/HBO-FAMILY-HD/default.mpd
+#EXTINF:-1 tvg-id="HBOMundi.mx" tvg-name="Hbo Mundi"  group-title="Lista 28 solo OTT",Hbo Mundi
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="Hbo O"  group-title="Lista 28 solo OTT",Hbo O
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live5-ott.izzigo.tv/out/u/dash/HBO-HD/default.mpd
+#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="Hbo Plus O"  group-title="Lista 28 solo OTT",Hbo Plus O
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live5-ott.izzigo.tv/out/u/dash/HBO-PLUS-HD/default.mpd
+#EXTINF:-1 tvg-id="HBOPop.mx" tvg-name="Hbo Pop"  group-title="Lista 28 solo OTT",Hbo Pop
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live5-ott.izzigo.tv/out/u/dash/HBO-POP-HD/default.mpd
+#EXTINF:-1 tvg-id="HBOSignature.mx" tvg-name="Hbo Signature"  group-title="Lista 28 solo OTT",Hbo Signature
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live5-ott.izzigo.tv/out/u/dash/HBO-SIGNATURE-HD/default.mpd
+#EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="Hbo Xtreme"  group-title="Lista 28 solo OTT",Hbo Xtreme
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live5-ott.izzigo.tv/out/u/dash/HBO-XTREME-HD/default.mpd
+#EXTINF:-1 tvg-id="History.mx" tvg-name="History"  group-title="Lista 28 solo OTT",History
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live5-ott.izzigo.tv/out/u/dash/HISTORY-CHANNEL-HD/default.mpd
+#EXTINF:-1 tvg-id="HLN.mx" tvg-name="Hln"  group-title="Lista 28 solo OTT",Hln
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live3-ott.izzigo.tv/out/u/dash/HLN-SD/default.mpd
+#EXTINF:-1 tvg-id="HOLATV.mx" tvg-name="Hola Tv"  group-title="Lista 28 solo OTT",Hola Tv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live1-ott.izzigo.tv/out/u/dash/HOLA-TV-HD/default.mpd
+#EXTINF:-1 tvg-id="ISAT.mx" tvg-name="I Sat"  group-title="Lista 28 solo OTT",I Sat
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live3-ott.izzigo.tv/out/u/dash/ISAT-SD/default.mpd
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Television"  group-title="Lista 28 solo OTT",Imagen Television
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://d27tvzq2si8mqa.cloudfront.net/out/v1/fcd0c858d99b4a94b36623d32b9b59af/default.mpd
+#EXTINF:-1 tvg-id="IngenioTV.mx" tvg-name="Ingenio Tv"  group-title="Lista 28 solo OTT",Ingenio Tv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live5-ott.izzigo.tv/out/u/dash/INGENIO-SD/default.mpd
+#EXTINF:-1 tvg-id="Inova.mx" tvg-name="Innova"  group-title="Lista 28 solo OTT",Innova
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live1-ott.izzigo.tv/out/u/dash/INNOVA-SD/default.mpd
+#EXTINF:-1 tvg-id="InvestigationDiscovery(English).mx" tvg-name="Investigation Discovery"  group-title="Lista 28 solo OTT",Investigation Discovery
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-ID-HD/default.mpd
+#EXTINF:-1 tvg-id="JusticiaTV.mx" tvg-name="Justicia Tv"  group-title="Lista 28 solo OTT",Justicia Tv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live3-ott.izzigo.tv/out/u/dash/JUSTICIA-TV-HD/default.mpd
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas"  group-title="Lista 28 solo OTT",Las Estrellas
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live1-ott.izzigo.tv/out/u/dash/CANAL-2-HD/default.mpd
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas 1hrs"  group-title="Lista 28 solo OTT",Las Estrellas 1hrs
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live4-ott.izzigo.tv/out/u/dash/LAS-ESTRELLAS-1HRS-SD/default.mpd
+#EXTINF:-1 tvg-id="LasEstrellasInternacional.mx" tvg-name="Las Estrellas 2hrs"  group-title="Lista 28 solo OTT",Las Estrellas 2hrs
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live2-ott.izzigo.tv/out/u/dash/LAS-ESTRELLAS-2HRS-HD/default.mpd
+#EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="Lifetime"  group-title="Lista 28 solo OTT",Lifetime
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live3-ott.izzigo.tv/out/u/dash/LIFETIME-HD/default.mpd
+#EXTINF:-1 tvg-id="Mariavision.mx" tvg-name="Mariavision"  group-title="Lista 28 solo OTT",Mariavision
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live3-ott.izzigo.tv/out/u/dash/MARIAVISION-HD/default.mpd
+#EXTINF:-1 tvg-id="MasChic.mx" tvg-name="Maschic"  group-title="Lista 28 solo OTT",Maschic
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live1-ott.izzigo.tv/out/u/dash/MASCHIC-HD/default.mpd
+#EXTINF:-1 tvg-id="MexicoTravelChannel.mx" tvg-name="Mexico Travel"  group-title="Lista 28 solo OTT",Mexico Travel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://d22eqbdkqnkywe.cloudfront.net/out/v1/a9389d549ae447699f0dc0fca14fc93e/default.mpd
+#EXTINF:-1 tvg-id="MilenioTV.mx" tvg-name="Milenio Tv"  group-title="Lista 28 solo OTT",Milenio Tv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live1-ott.izzigo.tv/out/u/dash/MILENIO-HD/default.mpd
+#EXTINF:-1 tvg-id="MTV.mx" tvg-name="Mtv"  group-title="Lista 28 solo OTT",Mtv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live2-ott.izzigo.tv/out/u/dash/MTV-HD/default.mpd
+#EXTINF:-1 tvg-id="MTV(English).mx" tvg-name="Mtv Dance"  group-title="Lista 28 solo OTT",Mtv Dance
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live4-ott.izzigo.tv/out/u/dash/MTV-DANCE-SD/default.mpd
+#EXTINF:-1 tvg-id="MTVHits(English).mx" tvg-name="Mtv Hits"  group-title="Lista 28 solo OTT",Mtv Hits
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live4-ott.izzigo.tv/out/u/dash/MTV-HITS-SD/default.mpd
+#EXTINF:-1 tvg-id="MTVLive(English).mx" tvg-name="Mtv Live"  group-title="Lista 28 solo OTT",Mtv Live
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live4-ott.izzigo.tv/out/u/dash/MTV-LIVE-HD/default.mpd
+#EXTINF:-1 tvg-id="MuchMusic.mx" tvg-name="Much Music"  group-title="Lista 28 solo OTT",Much Music
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live3-ott.izzigo.tv/out/u/dash/MUCH-MUSIC-SD/default.mpd
+#EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-name="Multimedios Plus"  group-title="Lista 28 solo OTT",Multimedios Plus
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live3-ott.izzigo.tv/out/u/dash/MULTIMEDIOS-PLUS-HD/default.mpd
+#EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="Natgeo"  group-title="Lista 28 solo OTT",Natgeo
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live4-ott.izzigo.tv/out/u/dash/NAT-GEO-HD/default.mpd
+#EXTINF:-1 tvg-id="NatGeoKids.mx" tvg-name="Natgeo Kids"  group-title="Lista 28 solo OTT",Natgeo Kids
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live1-ott.izzigo.tv/out/u/dash/NAT-GEO-KIDS-HD/default.mpd
+#EXTINF:-1 tvg-id="NationalGeographicWild.mx" tvg-name="Natgeo Wild"  group-title="Lista 28 solo OTT",Natgeo Wild
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live2-ott.izzigo.tv/out/u/dash/NAT-GEO-WILD-HD/default.mpd
+#EXTINF:-1 tvg-id="NFLNetwork(English).mx" tvg-name="Nfl"  group-title="Lista 28 solo OTT",Nfl
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live1-ott.izzigo.tv/out/u/dash/NFL-HD/default.mpd
+#EXTINF:-1 tvg-id="NHKWorldTV(English).mx" tvg-name="Nhk"  group-title="Lista 28 solo OTT",Nhk
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live2-ott.izzigo.tv/out/u/dash/NHK-HD/default.mpd
+#EXTINF:-1 tvg-id="Nick.mx" tvg-name="Nick"  group-title="Lista 28 solo OTT",Nick
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live2-ott.izzigo.tv/out/u/dash/NICK-HD/default.mpd
+#EXTINF:-1 tvg-id="Nick.mx" tvg-name="Nick 2"  group-title="Lista 28 solo OTT",Nick 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live4-ott.izzigo.tv/out/u/dash/NICK-2-HD/default.mpd
+#EXTINF:-1 tvg-id="NickJr.mx" tvg-name="Nick Jr"  group-title="Lista 28 solo OTT",Nick Jr
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live4-ott.izzigo.tv/out/u/dash/NICK-JR-HD/default.mpd
+#EXTINF:-1 tvg-id="Nicktoons(English).mx" tvg-name="Nicktoons"  group-title="Lista 28 solo OTT",Nicktoons
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live4-ott.izzigo.tv/out/u/dash/NICKTOONS-SD/default.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ocho Tv"  group-title="Lista 28 solo OTT",Ocho Tv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live3-ott.izzigo.tv/out/u/dash/OCHO-TV-SD/default.mpd
+#EXTINF:-1 tvg-id="Once.mx" tvg-name="Once"  group-title="Lista 28 solo OTT",Once
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live1-ott.izzigo.tv/out/u/dash/ONCE-HD/default.mpd
+#EXTINF:-1 tvg-id="Onceninos.mx" tvg-name="Once Ninos"  group-title="Lista 28 solo OTT",Once Ninos
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live3-ott.izzigo.tv/out/u/dash/ONCE-NINAS-Y-NINOS-SD/default.mpd
+#EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="Paramount O"  group-title="Lista 28 solo OTT",Paramount O
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live2-ott.izzigo.tv/out/u/dash/PARAMOUNT-HD/default.mpd
+#EXTINF:-1 tvg-id="RAIInternationalSpanish.mx" tvg-name="Rai"  group-title="Lista 28 solo OTT",Rai
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live5-ott.izzigo.tv/out/u/dash/RAI-HD/default.mpd
+#EXTINF:-1 tvg-id="RealMadridTV.mx" tvg-name="Real Madrid"  group-title="Lista 28 solo OTT",Real Madrid
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live4-ott.izzigo.tv/out/u/dash/REAL-MADRID-HD/default.mpd
+#EXTINF:-1 tvg-id="RTinSpanish.mx" tvg-name="Rt"  group-title="Lista 28 solo OTT",Rt
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live2-ott.izzigo.tv/out/u/dash/RT-HD/default.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Songie Tv"  group-title="Lista 28 solo OTT",Songie Tv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live4-ott.izzigo.tv/out/u/dash/SONGIE-TV-SD/default.mpd
+#EXTINF:-1 tvg-id="CanalSony.mx" tvg-name="Sony"  group-title="Lista 28 solo OTT",Sony
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live3-ott.izzigo.tv/out/u/dash/SONY-HD/default.mpd
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="Space O"  group-title="Lista 28 solo OTT",Space O
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://d26vx7vzke0q28.cloudfront.net/out/v1/c4d8e344dd774c0fa0921439ea79b3ce/default.mpd
+#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="Studio Universal"  group-title="Lista 28 solo OTT",Studio Universal
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://d26vx7vzke0q28.cloudfront.net/out/v1/8e7aaf8dc03540de95249961e5c53fcc/default.mpd
+#EXTINF:-1 tvg-id="SYFY.mx" tvg-name="Syfy"  group-title="Lista 28 solo OTT",Syfy
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live5-ott.izzigo.tv/out/u/dash/SYFY-HD/default.mpd
+#EXTINF:-1 tvg-id="TBS.mx" tvg-name="Tbs"  group-title="Lista 28 solo OTT",Tbs
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live3-ott.izzigo.tv/out/u/dash/TBS-SD/default.mpd
+#EXTINF:-1 tvg-id="TCM.mx" tvg-name="Tcm"  group-title="Lista 28 solo OTT",Tcm
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live5-ott.izzigo.tv/out/u/dash/TCM-SD/default.mpd
+#EXTINF:-1 tvg-id="Telefe.mx" tvg-name="Telefe"  group-title="Lista 28 solo OTT",Telefe
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live1-ott.izzigo.tv/out/u/dash/TELEFE-HD/default.mpd
+#EXTINF:-1 tvg-id="Teleformula.mx" tvg-name="Teleformula"  group-title="Lista 28 solo OTT",Teleformula
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live4-ott.izzigo.tv/out/u/dash/TELEFORMULA-SD/default.mpd
+#EXTINF:-1 tvg-id="Telehit.mx" tvg-name="Telehit"  group-title="Lista 28 solo OTT",Telehit
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-HD/default.mpd
+#EXTINF:-1 tvg-id="TelehitMusica.mx" tvg-name="Telehit Urbano"  group-title="Lista 28 solo OTT",Telehit Urbano
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-URBANO-SD/default.mpd
+#EXTINF:-1 tvg-id="TelemundoInternacional.mx" tvg-name="Telemundo"  group-title="Lista 28 solo OTT",Telemundo
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live3-ott.izzigo.tv/out/u/dash/TELEMUNDO-HD/default.mpd
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="Tlc"  group-title="Lista 28 solo OTT",Tlc
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://d1ynfzqkzrrwzs.cloudfront.net/out/v1/64aa09a04b6b422ca0c2f0719a3b6e0b/default.mpd
+#EXTINF:-1 tvg-id="TLNovelas.mx" tvg-name="Tlnovelas"  group-title="Lista 28 solo OTT",Tlnovelas
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live2-ott.izzigo.tv/out/u/dash/TLNOVELAS-SD/default.mpd
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="Tnt"  group-title="Lista 28 solo OTT",Tnt
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live2-ott.izzigo.tv/out/u/dash/TNT-HD/default.mpd
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="Tnt Series"  group-title="Lista 28 solo OTT",Tnt Series
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live1-ott.izzigo.tv/out/u/dash/TNT-SERIES-HD/default.mpd
+#EXTINF:-1 tvg-id="Tooncast.mx" tvg-name="Tooncast"  group-title="Lista 28 solo OTT",Tooncast
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live5-ott.izzigo.tv/out/u/dash/TOONCAST-SD/default.mpd
+#EXTINF:-1 tvg-id="TruTV.mx" tvg-name="Tru Tv"  group-title="Lista 28 solo OTT",Tru Tv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live2-ott.izzigo.tv/out/u/dash/TRU-TV-HD/default.mpd
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="Tudn"  group-title="Lista 28 solo OTT",Tudn
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
+#EXTINF:-1 tvg-id="TV5.mx" tvg-name="Tv 5"  group-title="Lista 28 solo OTT",Tv 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live3-ott.izzigo.tv/out/u/dash/TV5-SD/default.mpd
+#EXTINF:-1 tvg-id="GaliciaTVAmerica.mx" tvg-name="Tv Galicia"  group-title="Lista 28 solo OTT",Tv Galicia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live3-ott.izzigo.tv/out/u/dash/TV-GALICIA-SD/default.mpd
+#EXTINF:-1 tvg-id="RedeGloboINTL2(Portuguese).mx" tvg-name="Tv Globo"  group-title="Lista 28 solo OTT",Tv Globo
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live3-ott.izzigo.tv/out/u/dash/TV-GLOBO-SD/default.mpd
+#EXTINF:-1 tvg-id="TVUNAM.mx" tvg-name="Tv Unam"  group-title="Lista 28 solo OTT",Tv Unam
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live5-ott.izzigo.tv/out/u/dash/RDF_MTY_TV-UNAM-SD/default.mpd
+#EXTINF:-1 tvg-id="TVEAmericaTelevisionEspanola.mx" tvg-name="Tve"  group-title="Lista 28 solo OTT",Tve
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live5-ott.izzigo.tv/out/u/dash/TVE-SD/default.mpd
+#EXTINF:-1 tvg-id="StarTVE.mx" tvg-name="Tve Star"  group-title="Lista 28 solo OTT",Tve Star
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live2-ott.izzigo.tv/out/u/dash/STAR-HD/default.mpd
+#EXTINF:-1 tvg-id="Unicable.mx" tvg-name="Unicable"  group-title="Lista 28 solo OTT",Unicable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live2-ott.izzigo.tv/out/u/dash/UNICABLE-HD/default.mpd
+#EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal Channel"  group-title="Lista 28 solo OTT",Universal Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live4-ott.izzigo.tv/out/u/dash/UNIVERSAL-CHANNEL-HD/default.mpd
+#EXTINF:-1 tvg-id="VH1.mx" tvg-name="Vh1"  group-title="Lista 28 solo OTT",Vh1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live3-ott.izzigo.tv/out/u/dash/VH1-HD/default.mpd
+#EXTINF:-1 tvg-id="VH1Megahits.mx" tvg-name="Vh1 Classic"  group-title="Lista 28 solo OTT",Vh1 Classic
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live4-ott.izzigo.tv/out/u/dash/VH1-CLASSIC-SD/default.mpd
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner"  group-title="Lista 28 solo OTT",Warner
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live5-ott.izzigo.tv/out/u/dash/WARNER-HD/default.mpd
+#EXTINF:-1 tvg-id="ZeeMundo.mx" tvg-name="Zee Mundo"  group-title="Lista 28 solo OTT",Zee Mundo
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT" group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/servicios/telefullenvivo/lic/izlic.php
+https://live5-ott.izzigo.tv/out/u/dash/ZEE-MUNDO-HD/default.mpd
 
-http://blackaddon.com/play/futvall-209.php?id=tlc&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",MULTIPREMIER
-http://blackaddon.com/play/futvall-209.php?id=mp&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",GOLDEN
-http://blackaddon.com/play/futvall-209.php?id=golden&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",GOLDEN PLUS
-http://blackaddon.com/play/futvall-209.php?id=goldenplus&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",GOLDEN EDGE
-http://blackaddon.com/play/futvall-209.php?id=goldenedge&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",GOLDEN PREMIER
-http://blackaddon.com/play/futvall-209.php?id=goldenp&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",STAR CH
-http://blackaddon.com/play/futvall-209.php?id=starch&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",STAR ACTION
-http://blackaddon.com/play/futvall-209.php?id=staraction&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",STAR CINEMA
-http://blackaddon.com/play/futvall-209.php?id=starcinema&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",STAR CLASSICS
-http://blackaddon.com/play/futvall-209.php?id=starclassics&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",STAR COMEDY
-http://blackaddon.com/play/futvall-209.php?id=starcomedy&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",STAR FUN
-http://blackaddon.com/play/futvall-209.php?id=starfun&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",STAR HITS
-http://blackaddon.com/play/futvall-209.php?id=starhits&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",STAR LIFE
-http://blackaddon.com/play/futvall-209.php?id=starlife&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",STAR SERIES
-http://blackaddon.com/play/futvall-209.php?id=starseries&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",WOW TV
-http://blackaddon.com/play/futvall-209.php?id=wow&k=b1ackghoooooost&dos=.m3u8
 
 
-#EXTINF:-1 group-title="Lista 22",A MAS MX
-http://blackaddon.com/play/futvall-209.php?id=amas&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",AZTECA UNO MX
-http://blackaddon.com/play/futvall-209.php?id=aztecauno&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",EL DOS MX
-http://blackaddon.com/play/futvall-209.php?id=eldos&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",CANAL 5 MX
-http://blackaddon.com/play/futvall-209.php?id=elcinco&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",AZTECA 7
-http://blackaddon.com/play/futvall-209.php?id=azteca7&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",EL NUEVE MX
-http://blackaddon.com/play/futvall-209.php?id=elnueve&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",IMAGEN TV
-http://blackaddon.com/play/futvall-209.php?id=imagentv&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",MULTIMEDIOS
-http://blackaddon.com/play/futvall-209.php?id=multimedios&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",ONCE TV
-http://blackaddon.com/play/futvall-209.php?id=oncetv&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",ONCE TV HD
-http://blackaddon.com/play/futvall-209.php?id=oncetvhd&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",DISTRITO COMEDIA
-http://blackaddon.com/play/futvall-209.php?id=distrito&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",UNICABLE MX
-http://blackaddon.com/play/futvall-209.php?id=unicable&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",MVSTV MX
-http://blackaddon.com/play/futvall-209.php?id=mvstv&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",ANTENA 3 Int
-http://blackaddon.com/play/futvall-209.php?id=antena3int&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",A3 SERIES
-http://blackaddon.com/play/futvall-209.php?id=a3series&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",STAR TVE
-http://blackaddon.com/play/futvall-209.php?id=startve&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",TVE
-http://blackaddon.com/play/futvall-209.php?id=tve&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",GALAVISION
-http://blackaddon.com/play/futvall-209.php?id=galavision&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",GLITZ
-http://blackaddon.com/play/futvall-209.php?id=glitz&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",TELEMUNDO
-http://blackaddon.com/play/futvall-209.php?id=telemundo&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",TELEMUNDO Internacional
-http://blackaddon.com/play/futvall-209.php?id=telemundoint&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",UNIMAS
-http://blackaddon.com/play/futvall-209.php?id=unimas&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",AZ CORAZON
-http://blackaddon.com/play/futvall-209.php?id=azcorazon&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",A&amp;E
-http://blackaddon.com/play/futvall-209.php?id=ae&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",AXN
-http://blackaddon.com/play/futvall-209.php?id=axn&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",COMEDY CENTRAL
-http://blackaddon.com/play/futvall-209.php?id=comedy&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",Entertaiment
-http://blackaddon.com/play/futvall-209.php?id=e&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",FOX Channel
-http://blackaddon.com/play/futvall-209.php?id=starch&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",FOX LIFE
-http://blackaddon.com/play/futvall-209.php?id=starlife&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",FX
-http://blackaddon.com/play/futvall-209.php?id=fx&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",INVESTIGATION Discovery
-http://blackaddon.com/play/futvall-209.php?id=id&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",PASIONES
-http://blackaddon.com/play/futvall-209.php?id=pasiones&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",RCN Novelas
-http://blackaddon.com/play/futvall-209.php?id=rcntln&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",SONY Channel
-http://blackaddon.com/play/futvall-209.php?id=sony&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",TLNovelas
-http://blackaddon.com/play/futvall-209.php?id=tlnovelas&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",Tele Novelas
-http://blackaddon.com/play/futvall-209.php?id=univtln&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",TBS
-http://blackaddon.com/play/futvall-209.php?id=tbs&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",TNT Series
-http://blackaddon.com/play/futvall-209.php?id=tntseries&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",TRU TV
-http://blackaddon.com/play/futvall-209.php?id=trutv&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",UNIVERSAL TV
-http://blackaddon.com/play/futvall-209.php?id=universal&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",WARNER TV
-http://blackaddon.com/play/futvall-209.php?id=warner&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",AZ CINEMA
-http://blackaddon.com/play/futvall-209.php?id=azcinema&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",AMC
-http://blackaddon.com/play/futvall-209.php?id=amc&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",CINECANAL
-http://blackaddon.com/play/futvall-209.php?id=cinecanal&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",CINEMAX
-http://blackaddon.com/play/futvall-209.php?id=cinemax&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",DE PELICULA
-http://blackaddon.com/play/futvall-209.php?id=depelicula&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",DE PELICULA PLUS
-http://blackaddon.com/play/futvall-209.php?id=depeliculaplus&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",DHE
-http://blackaddon.com/play/futvall-209.php?id=dhe&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",EUROPA
-http://blackaddon.com/play/futvall-209.php?id=europa&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",FILM &amp; ARTS
-http://blackaddon.com/play/futvall-209.php?id=filmarts&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",FXM
-http://blackaddon.com/play/futvall-209.php?id=fxm&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",ISAT
-http://blackaddon.com/play/futvall-209.php?id=isat&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",MULTICINEMA
-http://blackaddon.com/play/futvall-209.php?id=mc&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",MULTIPREMIER
-http://blackaddon.com/play/futvall-209.php?id=mp&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",MORBIDO
-http://blackaddon.com/play/futvall-209.php?id=morbido&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",PARAMOUNT Channel
-http://blackaddon.com/play/futvall-209.php?id=paramount&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",SPACE
-http://blackaddon.com/play/futvall-209.php?id=space&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",STUDIO Universal
-http://blackaddon.com/play/futvall-209.php?id=studiouniversal&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",SYFY
-http://blackaddon.com/play/futvall-209.php?id=syfy&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",TCM
-http://blackaddon.com/play/futvall-209.php?id=tcm&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",TNT
-http://blackaddon.com/play/futvall-209.php?id=tnt&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",AZ MUNDO
-http://blackaddon.com/play/futvall-209.php?id=azmundo&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",ANIMAL Planet
-http://blackaddon.com/play/futvall-209.php?id=animalp&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",DISCOVERY Channel
-http://blackaddon.com/play/futvall-209.php?id=discoverych&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",Discovery SCIENCE
-http://blackaddon.com/play/futvall-209.php?id=dciencia&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",Discovery CIVILIZATION
-http://blackaddon.com/play/futvall-209.php?id=dcivil&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",Discovery THEATER
-http://blackaddon.com/play/futvall-209.php?id=dtheater&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",Discovery TURBO
-http://blackaddon.com/play/futvall-209.php?id=dturbo&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",Discovery WORLD
-http://blackaddon.com/play/futvall-209.php?id=dworld&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",FOOD Network
-http://blackaddon.com/play/futvall-209.php?id=food&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",EL GOURMET
-http://blackaddon.com/play/futvall-209.php?id=gourmet&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",LIFE TIME
-http://blackaddon.com/play/futvall-209.php?id=lifetime&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",HISTORY Channel
-http://blackaddon.com/play/futvall-209.php?id=history&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",Histrory 2
-http://blackaddon.com/play/futvall-209.php?id=h2&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",Home &amp; Health
-http://blackaddon.com/play/futvall-209.php?id=hh&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",HOLA TV
-http://blackaddon.com/play/futvall-209.php?id=holatv&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",MAS CHIC
-http://blackaddon.com/play/futvall-209.php?id=maschic&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",NATGEO
-http://blackaddon.com/play/futvall-209.php?id=natgeo&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",Natgeo WILD
-http://blackaddon.com/play/futvall-209.php?id=natgeowild&k=b1ackghoooooost&dos=.m3u8
-#EXTINF:-1 group-title="Lista 22",TLC Discovery
-http://blackaddon.com/play/futvall-209.php?id=tlc&k=b1ackghoooooost&dos=.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.m3ukodi.com/servicios/telefullenvivo/lic/blimlic.php
+#EXTINF:-1 tvg-id="AdrenalinaSportsNetwork.mx" tvg-name="adrenalina Sports"   group-title="Lista 28 solo OTT",adrenalina Sports
+http://channel-adrenalina-cdn.blim.com/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.m3ukodi.com/servicios/telefullenvivo/lic/blimlic.php
+#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="afizzionados"   group-title="Lista 28 solo OTT",afizzionados
+http://channel-afizzionados-cdn.blim.com/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.m3ukodi.com/servicios/telefullenvivo/lic/blimlic.php
+#EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="bandamax"   group-title="Lista 28 solo OTT",bandamax
+http://channel-bandamax-cdn.blim.com/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.m3ukodi.com/servicios/telefullenvivo/lic/blimlic.php
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="canal5"   group-title="Lista 28 solo OTT",canal5
+http://channel-canal5-cdn.blim.com/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.m3ukodi.com/servicios/telefullenvivo/lic/blimlic.php
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="depelicula"   group-title="Lista 28 solo OTT",depelicula
+http://channel-depelicula-cdn.blim.com/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.m3ukodi.com/servicios/telefullenvivo/lic/blimlic.php
+#EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="depelicula plus"   group-title="Lista 28 solo OTT",depelicula plus
+http://channel-depeliculaplus-cdn.blim.com/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.m3ukodi.com/servicios/telefullenvivo/lic/blimlic.php
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="distrito comedia"   group-title="Lista 28 solo OTT",distrito comedia
+http://channel-distritocomedia-cdn.blim.com/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.m3ukodi.com/servicios/telefullenvivo/lic/blimlic.php
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="estrellas"   group-title="Lista 28 solo OTT",estrellas
+http://channel-estrellas-cdn.blim.com/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.m3ukodi.com/servicios/telefullenvivo/lic/blimlic.php
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="estrellas d1"   group-title="Lista 28 solo OTT",estrellas d1
+http://channel-estrellasd1-cdn.blim.com/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.m3ukodi.com/servicios/telefullenvivo/lic/blimlic.php
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="estrellas d2"   group-title="Lista 28 solo OTT",estrellas d2
+http://channel-estrellasd2-cdn.blim.com/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.m3ukodi.com/servicios/telefullenvivo/lic/blimlic.php
+#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="foro tv"   group-title="Lista 28 solo OTT",foro tv
+http://channel-forotv-cdn.blim.com/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.m3ukodi.com/servicios/telefullenvivo/lic/blimlic.php
+#EXTINF:-1 tvg-id="CanalNu9ve.mx" tvg-name="gala tv"   group-title="Lista 28 solo OTT",gala tv
+http://channel-galatv-cdn.blim.com/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.m3ukodi.com/servicios/telefullenvivo/lic/blimlic.php
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="golden"   group-title="Lista 28 solo OTT",golden
+http://channel-golden-cdn.blim.com/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.m3ukodi.com/servicios/telefullenvivo/lic/blimlic.php
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="golden edge"   group-title="Lista 28 solo OTT",golden edge
+http://channel-goldenedge-cdn.blim.com/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.m3ukodi.com/servicios/telefullenvivo/lic/blimlic.php
+#EXTINF:-1 tvg-id="GoldenMultiplex.mx" tvg-name="golden mpx"   group-title="Lista 28 solo OTT",golden mpx
+http://channel-goldenmpx-cdn.blim.com/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.m3ukodi.com/servicios/telefullenvivo/lic/blimlic.php
+#EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="golden plus"   group-title="Lista 28 solo OTT",golden plus
+http://channel-goldenplus-cdn.blim.com/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.m3ukodi.com/servicios/telefullenvivo/lic/blimlic.php
+#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="RMS"   group-title="Lista 28 solo OTT",RMS
+http://channel-rms-cdn.blim.com/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.m3ukodi.com/servicios/telefullenvivo/lic/blimlic.php
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN"   group-title="Lista 28 solo OTT",TUDN
+http://channel-tdn-cdn.blim.com/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.m3ukodi.com/servicios/telefullenvivo/lic/blimlic.php
+#EXTINF:-1 tvg-id="Telehit.mx" tvg-name="Telehit"   group-title="Lista 28 solo OTT",Telehit
+http://channel-telehit-cdn.blim.com/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.m3ukodi.com/servicios/telefullenvivo/lic/blimlic.php
+#EXTINF:-1 tvg-id="TelehitMusicaPlus.mx" tvg-name="telehit plus"   group-title="Lista 28 solo OTT",telehit plus
+http://channel-telehitplus-cdn.blim.com/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.m3ukodi.com/servicios/telefullenvivo/lic/blimlic.php
+#EXTINF:-1 tvg-id="TelemundoInternacional.mx" tvg-name="Telemundo"   group-title="Lista 28 solo OTT",Telemundo
+http://channel-telemundo-cdn.blim.com/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.m3ukodi.com/servicios/telefullenvivo/lic/blimlic.php
+#EXTINF:-1 tvg-id="Bitme.mx" tvg-name="Tiin"   group-title="Lista 28 solo OTT",Tiin
+http://channel-tiin-cdn.blim.com/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.m3ukodi.com/servicios/telefullenvivo/lic/blimlic.php
+#EXTINF:-1 tvg-id="TLNovelas.mx" tvg-name="TLNovelas"   group-title="Lista 28 solo OTT",TLNovelas
+http://channel-tlnovelas-cdn.blim.com/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.m3ukodi.com/servicios/telefullenvivo/lic/blimlic.php
+#EXTINF:-1 tvg-id="Unicable.mx" tvg-name="UNICABLE"   group-title="Lista 28 solo OTT",UNICABLE
+http://channel-unicable-cdn.blim.com/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.m3ukodi.com/servicios/telefullenvivo/lic/blimlic.php
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN"   group-title="Lista 28 solo OTT",TUDN
+http://channel-utdn-cdn.blim.com/manifest.mpd
+
 
 
 
