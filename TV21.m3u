@@ -1,203 +1,306 @@
 #EXTM3U
-#EXTINF:-1 group-title="Lista 32",26TV
-http://181.191.141.4:9981/stream/channelid/931767364?profile=pass
-#EXTINF:-1 group-title="Lista 32",A&E HD
-http://181.191.141.4:9981/stream/channelid/1061633884?profile=pass
-#EXTINF:-1 group-title="Lista 32",A24
-http://181.191.141.4:9981/stream/channelid/1543881397?profile=pass
-#EXTINF:-1 group-title="Lista 32",AM Continental
-http://181.191.141.4:9981/stream/channelid/1461913031?profile=pass
-#EXTINF:-1 group-title="Lista 32",AM Sports
-http://181.191.141.4:9981/stream/channelid/359833065?profile=pass
-#EXTINF:-1 group-title="Lista 32",AMC
-http://181.191.141.4:9981/stream/channelid/169202585?profile=pass
-#EXTINF:-1 group-title="Lista 32",AXN HD
-http://181.191.141.4:9981/stream/channelid/1753402049?profile=pass
-#EXTINF:-1 group-title="Lista 32",Baby TV
-http://181.191.141.4:9981/stream/channelid/1555137065?profile=pass
-#EXTINF:-1 group-title="Lista 32",C5N
-http://181.191.141.4:9981/stream/channelid/734028913?profile=pass
-#EXTINF:-1 group-title="Lista 32",Cadena 3
-http://181.191.141.4:9981/stream/channelid/567830715?profile=pass
-#EXTINF:-1 group-title="Lista 32",Canal de la Ciudad
-http://181.191.141.4:9981/stream/channelid/1069805917?profile=pass
-#EXTINF:-1 group-title="Lista 32",Cartoon Network HD
-http://181.191.141.4:9981/stream/channelid/685601258?profile=pass
-#EXTINF:-1 group-title="Lista 32",Cine.AR
-http://181.191.141.4:9981/stream/channelid/1491881413?profile=pass
-#EXTINF:-1 group-title="Lista 32",Cinecanal HD
-http://181.191.141.4:9981/stream/channelid/425316660?profile=pass
-#EXTINF:-1 group-title="Lista 32",Cinemax
-http://181.191.141.4:9981/stream/channelid/1606078654?profile=pass
-#EXTINF:-1 group-title="Lista 32",ciudad magazine
-http://181.191.141.4:9981/stream/channelid/1275327731?profile=pass
-#EXTINF:-1 group-title="Lista 32",CNN en EspaÃ¦ol
-http://181.191.141.4:9981/stream/channelid/485766222?profile=pass
-#EXTINF:-1 group-title="Lista 32",CrÃ°nica
-http://181.191.141.4:9981/stream/channelid/1547044203?profile=pass
-#EXTINF:-1 group-title="Lista 32",DeporTV
-http://181.191.141.4:9981/stream/channelid/959577406?profile=pass
-#EXTINF:-1 group-title="Lista 32",Discovery Channel HD
-http://181.191.141.4:9981/stream/channelid/1841823551?profile=pass
-#EXTINF:-1 group-title="Lista 32",Discovery H&H HD
-http://181.191.141.4:9981/stream/channelid/593338370?profile=pass
-#EXTINF:-1 group-title="Lista 32",Discovery Kids
-http://181.191.141.4:9981/stream/channelid/172516479?profile=pass
-#EXTINF:-1 group-title="Lista 32",Discovery Science
-http://181.191.141.4:9981/stream/channelid/2084815926?profile=pass
-#EXTINF:-1 group-title="Lista 32",Discovery Theater HD
-http://181.191.141.4:9981/stream/channelid/811740311?profile=pass
-#EXTINF:-1 group-title="Lista 32",Discovery Turbo
-http://181.191.141.4:9981/stream/channelid/273907486?profile=pass
-#EXTINF:-1 group-title="Lista 32",Discovery World HD
-http://181.191.141.4:9981/stream/channelid/1170775916?profile=pass
-#EXTINF:-1 group-title="Lista 32",Disney Channel HD
-http://181.191.141.4:9981/stream/channelid/336517816?profile=pass
-#EXTINF:-1 group-title="Lista 32",Disney Junior
-http://181.191.141.4:9981/stream/channelid/921973190?profile=pass
-#EXTINF:-1 group-title="Lista 32",Disney XD
-http://181.191.141.4:9981/stream/channelid/1418456914?profile=pass
-#EXTINF:-1 group-title="Lista 32",E! Entertainment
-http://181.191.141.4:9981/stream/channelid/1175345814?profile=pass
-#EXTINF:-1 group-title="Lista 32",El Canal  de las Estrellas
-http://181.191.141.4:9981/stream/channelid/1061169648?profile=pass
-#EXTINF:-1 group-title="Lista 32",El Gourmet
-http://181.191.141.4:9981/stream/channelid/328356436?profile=pass
-#EXTINF:-1 group-title="Lista 32",Encuentro
-http://181.191.141.4:9981/stream/channelid/1629308641?profile=pass
-#EXTINF:-1 group-title="Lista 32",ESPN 2
-http://181.191.141.4:9981/stream/channelid/371483615?profile=pass
-#EXTINF:-1 group-title="Lista 32",ESPN 2 HD
-http://181.191.141.4:9981/stream/channelid/462957684?profile=pass
-#EXTINF:-1 group-title="Lista 32",ESPN 3 HD
-http://181.191.141.4:9981/stream/channelid/2062388909?profile=pass
-#EXTINF:-1 group-title="Lista 32",ESPN Extra HD
-http://181.191.141.4:9981/stream/channelid/1788551776?profile=pass
-#EXTINF:-1 group-title="Lista 32",ESPN HD
-http://181.191.141.4:9981/stream/channelid/1469125493?profile=pass
-#EXTINF:-1 group-title="Lista 32",Film & Arts HD
-http://181.191.141.4:9981/stream/channelid/1301502662?profile=pass
-#EXTINF:-1 group-title="Lista 32",FM 100
-http://181.191.141.4:9981/stream/channelid/1084839082?profile=pass
-#EXTINF:-1 group-title="Lista 32",Fox Sports 2 HD
-http://181.191.141.4:9981/stream/channelid/1795408407?profile=pass
-#EXTINF:-1 group-title="Lista 32",Fox Sports 3 HD
-http://181.191.141.4:9981/stream/channelid/1539821382?profile=pass
-#EXTINF:-1 group-title="Lista 32",Fox Sports HD
-http://181.191.141.4:9981/stream/channelid/324572227?profile=pass
-#EXTINF:-1 group-title="Lista 32",Fox Sports Premium HD
-http://181.191.141.4:9981/stream/channelid/60660329?profile=pass
-#EXTINF:-1 group-title="Lista 32",FX HD
-http://181.191.141.4:9981/stream/channelid/333875611?profile=pass
-#EXTINF:-1 group-title="Lista 32",FX Movies HD
-http://181.191.141.4:9981/stream/channelid/1776419326?profile=pass
-#EXTINF:-1 group-title="Lista 32",Galicia TV
-http://181.191.141.4:9981/stream/channelid/1691238473?profile=pass
-#EXTINF:-1 group-title="Lista 32",Glitz
-http://181.191.141.4:9981/stream/channelid/2090285312?profile=pass
-#EXTINF:-1 group-title="Lista 32",HBO
-http://181.191.141.4:9981/stream/channelid/1891222005?profile=pass
-#EXTINF:-1 group-title="Lista 32",HBO 2
-http://181.191.141.4:9981/stream/channelid/1348061264?profile=pass
-#EXTINF:-1 group-title="Lista 32",HBO Family
-http://181.191.141.4:9981/stream/channelid/404483297?profile=pass
-#EXTINF:-1 group-title="Lista 32",HBO Plus
-http://181.191.141.4:9981/stream/channelid/340621241?profile=pass
-#EXTINF:-1 group-title="Lista 32",HGTV
-http://181.191.141.4:9981/stream/channelid/1074479430?profile=pass
-#EXTINF:-1 group-title="Lista 32",History 2
-http://181.191.141.4:9981/stream/channelid/886152250?profile=pass
-#EXTINF:-1 group-title="Lista 32",HTV
-http://181.191.141.4:9981/stream/channelid/401192013?profile=pass
-#EXTINF:-1 group-title="Lista 32",I-Sat
-http://181.191.141.4:9981/stream/channelid/986884731?profile=pass
-#EXTINF:-1 group-title="Lista 32",La Nacion TV
-http://181.191.141.4:9981/stream/channelid/243224648?profile=pass
-#EXTINF:-1 group-title="Lista 32",La Tele
-http://181.191.141.4:9981/stream/channelid/765269091?profile=pass
-#EXTINF:-1 group-title="Lista 32",Metro
-http://181.191.141.4:9981/stream/channelid/851458238?profile=pass
-#EXTINF:-1 group-title="Lista 32",Mitre AM790
-http://181.191.141.4:9981/stream/channelid/541102658?profile=pass
-#EXTINF:-1 group-title="Lista 32",MTV
-http://181.191.141.4:9981/stream/channelid/2469161?profile=pass
-#EXTINF:-1 group-title="Lista 32",Nacional
-http://181.191.141.4:9981/stream/channelid/1959797170?profile=pass
-#EXTINF:-1 group-title="Lista 32",Nat Geo HD
-http://181.191.141.4:9981/stream/channelid/1887575995?profile=pass
-#EXTINF:-1 group-title="Lista 32",Nat Geo Kids
-http://181.191.141.4:9981/stream/channelid/1069550335?profile=pass
-#EXTINF:-1 group-title="Lista 32",Natgeo Wild HD
-http://181.191.141.4:9981/stream/channelid/1820566379?profile=pass
-#EXTINF:-1 group-title="Lista 32",Nickelodeon
-http://181.191.141.4:9981/stream/channelid/985295901?profile=pass
-#EXTINF:-1 group-title="Lista 32",Pakapaka
-http://181.191.141.4:9981/stream/channelid/2107207963?profile=pass
-#EXTINF:-1 group-title="Lista 32",Quiero Musica
-http://181.191.141.4:9981/stream/channelid/23253608?profile=pass
-#EXTINF:-1 group-title="Lista 32",RAI Italia
-http://181.191.141.4:9981/stream/channelid/1726107404?profile=pass
-#EXTINF:-1 group-title="Lista 32",Rural
-http://181.191.141.4:9981/stream/channelid/1473600554?profile=pass
-#EXTINF:-1 group-title="Lista 32",Saeta Canal 10
-http://181.191.141.4:9981/stream/channelid/103374338?profile=pass
-#EXTINF:-1 group-title="Lista 32",Somos Nacional
-http://181.191.141.4:9981/stream/channelid/97823377?profile=pass
-#EXTINF:-1 group-title="Lista 32",Sony HD
-http://181.191.141.4:9981/stream/channelid/900158665?profile=pass
-#EXTINF:-1 group-title="Lista 32",Space HD
-http://181.191.141.4:9981/stream/channelid/1139727443?profile=pass
-#EXTINF:-1 group-title="Lista 32",Star Action HD
-http://181.191.141.4:9981/stream/channelid/1356858745?profile=pass
-#EXTINF:-1 group-title="Lista 32",Star Channel HD
-http://181.191.141.4:9981/stream/channelid/494575838?profile=pass
-#EXTINF:-1 group-title="Lista 32",Star Classics
-http://181.191.141.4:9981/stream/channelid/903186196?profile=pass
-#EXTINF:-1 group-title="Lista 32",Star Fun
-http://181.191.141.4:9981/stream/channelid/53117060?profile=pass
-#EXTINF:-1 group-title="Lista 32",Star Hits
-http://181.191.141.4:9981/stream/channelid/1806810998?profile=pass
-#EXTINF:-1 group-title="Lista 32",Star Life
-http://181.191.141.4:9981/stream/channelid/497096544?profile=pass
-#EXTINF:-1 group-title="Lista 32",Star Series
-http://181.191.141.4:9981/stream/channelid/2121475732?profile=pass
-#EXTINF:-1 group-title="Lista 32",Studio Universal
-http://181.191.141.4:9981/stream/channelid/750601861?profile=pass
-#EXTINF:-1 group-title="Lista 32",SyFy
-http://181.191.141.4:9981/stream/channelid/2119587575?profile=pass
-#EXTINF:-1 group-title="Lista 32",TBS HD
-http://181.191.141.4:9981/stream/channelid/230985306?profile=pass
-#EXTINF:-1 group-title="Lista 32",TCM
-http://181.191.141.4:9981/stream/channelid/1490081439?profile=pass
-#EXTINF:-1 group-title="Lista 32",The History Channel HD
-http://181.191.141.4:9981/stream/channelid/1075086592?profile=pass
-#EXTINF:-1 group-title="Lista 32",TN HD
-http://181.191.141.4:9981/stream/channelid/741145843?profile=pass
-#EXTINF:-1 group-title="Lista 32",TNT HD
-http://181.191.141.4:9981/stream/channelid/190293602?profile=pass
-#EXTINF:-1 group-title="Lista 32",TNT Series
-http://181.191.141.4:9981/stream/channelid/570384589?profile=pass
-#EXTINF:-1 group-title="Lista 32",TNT Sports HD
-http://181.191.141.4:9981/stream/channelid/1708683349?profile=pass
-#EXTINF:-1 group-title="Lista 32",TruTV HD
-http://181.191.141.4:9981/stream/channelid/369370178?profile=pass
-#EXTINF:-1 group-title="Lista 32",TVE
-http://181.191.141.4:9981/stream/channelid/419589038?profile=pass
-#EXTINF:-1 group-title="Lista 32",TyC Sports HD
-http://181.191.141.4:9981/stream/channelid/1517208799?profile=pass
-#EXTINF:-1 group-title="Lista 32",Universal HD
-http://181.191.141.4:9981/stream/channelid/1228704801?profile=pass
-#EXTINF:-1 group-title="Lista 32",Volver
-http://181.191.141.4:9981/stream/channelid/271365858?profile=pass
-#EXTINF:-1 group-title="Lista 32",Warner Channel HD
-http://181.191.141.4:9981/stream/channelid/1818231013?profile=pass
-#EXTINF:-1 group-title="Lista 32",America TV HD
-http://181.191.141.4:9981/stream/channelid/1225739939?profile=pass
-#EXTINF:-1 group-title="Lista 32",el nueve HD
-http://181.191.141.4:9981/stream/channelid/647912218?profile=pass
-#EXTINF:-1 group-title="Lista 32",el trece HD
-http://181.191.141.4:9981/stream/channelid/2033616169?profile=pass
-#EXTINF:-1 group-title="Lista 32",Telefe HD
-http://181.191.141.4:9981/stream/channelid/410397537?profile=pass
-#EXTINF:-1 group-title="Lista 32",TV Publica HD
-http://181.191.141.4:9981/stream/channelid/961486854?profile=pass
+#EXTINF:-1 group-title="Lista 22",AZTECA UNO MX
+http://blackaddon.com/play/futvall-209.php?id=aztecauno&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",CANAL 2 MX
+http://blackaddon.com/play/futvall-209.php?id=eldos&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",CANAL 5 MX
+http://blackaddon.com/play/futvall-209.php?id=elcinco&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",AZTECA 7 MX
+http://blackaddon.com/play/futvall-209.php?id=azteca7&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",NUEVE
+http://blackaddon.com/play/futvall-209.php?id=elnueve&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",IMAGEN TV
+http://blackaddon.com/play/futvall-209.php?id=imagentv&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",STAR ACTION
+http://blackaddon.com/play/futvall-209.php?id=staraction&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",SPACE
+http://blackaddon.com/play/futvall-209.php?id=space&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",ADRENALINA
+http://blackaddon.com/play/futvall-209.php?id=adrenalina&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",AFIZZIONADOS
+http://blackaddon.com/play/futvall-209.php?id=afizzionados&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",AyM Sports
+http://blackaddon.com/play/futvall-209.php?id=aymsports&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",BASKET AMERICAS
+http://blackaddon.com/play/futvall-209.php?id=basket&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",BEIN SPORTS Ñ
+http://blackaddon.com/play/futvall-209.php?id=beines&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",BEIN US HD
+http://blackaddon.com/play/futvall-209.php?id=beinhd&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",DIRECTV SPORTS
+http://blackaddon.com/play/futvall-209.php?id=directv&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",DIRECTV 2
+http://blackaddon.com/play/futvall-209.php?id=directv2&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",CLARO SPORTS
+http://blackaddon.com/play/futvall-209.php?id=clarosports&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",ESPN Deportes
+http://blackaddon.com/play/futvall-209.php?id=espndep&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",ESPN 1 MX
+http://blackaddon.com/play/futvall-209.php?id=espn1-mx&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",ESPN 2 MX
+http://blackaddon.com/play/futvall-209.php?id=espn2-mx&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",ESPN 3 MX
+http://blackaddon.com/play/futvall-209.php?id=espn3-mx&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",ESPN EXTRA
+http://blackaddon.com/play/futvall-209.php?id=espnextra-mx&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",FOX SPORTS 1 MX
+http://blackaddon.com/play/futvall-209.php?id=foxsports1-mx&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",FOX SPORTS 2 MX
+http://blackaddon.com/play/futvall-209.php?id=foxsports2-mx&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",FOX SPORTS 3 MX
+http://blackaddon.com/play/futvall-209.php?id=foxsports3-mx&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",FOX SPORTS PREMIUM
+http://blackaddon.com/play/futvall-209.php?id=foxsportsp&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",GALAVISION
+http://blackaddon.com/play/futvall-209.php?id=galavision&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",GOL PERU
+http://blackaddon.com/play/futvall-209.php?id=golperu&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",GOLTV
+http://blackaddon.com/play/futvall-209.php?id=goltv&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",GOLF CHANNEL
+http://blackaddon.com/play/futvall-209.php?id=golf&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",HAVOC
+http://blackaddon.com/play/futvall-209.php?id=havoc&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",NFL NETWORK
+http://blackaddon.com/play/futvall-209.php?id=nfl&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",LAS Deportes
+http://blackaddon.com/play/futvall-209.php?id=las&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",LALIGA
+http://blackaddon.com/play/futvall-209.php?id=laliga&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",M LALIGA
+http://blackaddon.com/play/futvall-209.php?id=mlaliga&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",M LIGA DE CAMPEONES
+http://blackaddon.com/play/futvall-209.php?id=mligadec&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",TELEMUNDO
+http://blackaddon.com/play/futvall-209.php?id=telemundo&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",TUDN MX
+http://blackaddon.com/play/futvall-209.php?id=tudn-mx&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",TUDN US
+http://blackaddon.com/play/futvall-209.php?id=tudn-us&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",TVC Deportes
+http://blackaddon.com/play/futvall-209.php?id=tvcdep-mx&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",TyC SPORTS
+http://blackaddon.com/play/futvall-209.php?id=tycsports&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",UNIMAS
+http://blackaddon.com/play/futvall-209.php?id=unimas&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",UNIVERSO
+http://blackaddon.com/play/futvall-209.php?id=universo&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",NBC SPORTS NET
+http://blackaddon.com/play/futvall-209.php?id=nbcsn&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",WIN SPORTS
+http://blackaddon.com/play/futvall-209.php?id=winsports&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",WIN SPORTS PLUS
+http://blackaddon.com/play/futvall-209.php?id=winplus&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",FIGHT TIME
+http://blackaddon.com/play/futvall-209.php?id=fight&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",UFC
+http://blackaddon.com/play/futvall-209.php?id=ufc&k=b1ackghoooooost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",WWE
+http://blackaddon.com/play/futvall-209.php?id=wwe&k=b1ackghoooooost&f=.m3u8
+
+
+
+#EXTINF:-1 group-title="Lista 22",--------------
+http://blackaddon.com/play/s&k=b1ackghoooooost&f=.m3u8
+
+
+
+
+
+
+http://blackaddon.com/play/futvall-209.php?id=tlc&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",MULTIPREMIER
+http://blackaddon.com/play/futvall-209.php?id=mp&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",GOLDEN
+http://blackaddon.com/play/futvall-209.php?id=golden&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",GOLDEN PLUS
+http://blackaddon.com/play/futvall-209.php?id=goldenplus&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",GOLDEN EDGE
+http://blackaddon.com/play/futvall-209.php?id=goldenedge&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",GOLDEN PREMIER
+http://blackaddon.com/play/futvall-209.php?id=goldenp&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",STAR CH
+http://blackaddon.com/play/futvall-209.php?id=starch&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",STAR ACTION
+http://blackaddon.com/play/futvall-209.php?id=staraction&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",STAR CINEMA
+http://blackaddon.com/play/futvall-209.php?id=starcinema&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",STAR CLASSICS
+http://blackaddon.com/play/futvall-209.php?id=starclassics&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",STAR COMEDY
+http://blackaddon.com/play/futvall-209.php?id=starcomedy&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",STAR FUN
+http://blackaddon.com/play/futvall-209.php?id=starfun&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",STAR HITS
+http://blackaddon.com/play/futvall-209.php?id=starhits&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",STAR LIFE
+http://blackaddon.com/play/futvall-209.php?id=starlife&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",STAR SERIES
+http://blackaddon.com/play/futvall-209.php?id=starseries&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",WOW TV
+http://blackaddon.com/play/futvall-209.php?id=wow&k=b1ackghoooooost&dos=.m3u8
+
+
+#EXTINF:-1 group-title="Lista 22",A MAS MX
+http://blackaddon.com/play/futvall-209.php?id=amas&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",AZTECA UNO MX
+http://blackaddon.com/play/futvall-209.php?id=aztecauno&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",EL DOS MX
+http://blackaddon.com/play/futvall-209.php?id=eldos&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",CANAL 5 MX
+http://blackaddon.com/play/futvall-209.php?id=elcinco&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",AZTECA 7
+http://blackaddon.com/play/futvall-209.php?id=azteca7&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",EL NUEVE MX
+http://blackaddon.com/play/futvall-209.php?id=elnueve&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",IMAGEN TV
+http://blackaddon.com/play/futvall-209.php?id=imagentv&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",MULTIMEDIOS
+http://blackaddon.com/play/futvall-209.php?id=multimedios&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",ONCE TV
+http://blackaddon.com/play/futvall-209.php?id=oncetv&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",ONCE TV HD
+http://blackaddon.com/play/futvall-209.php?id=oncetvhd&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",DISTRITO COMEDIA
+http://blackaddon.com/play/futvall-209.php?id=distrito&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",UNICABLE MX
+http://blackaddon.com/play/futvall-209.php?id=unicable&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",MVSTV MX
+http://blackaddon.com/play/futvall-209.php?id=mvstv&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",ANTENA 3 Int
+http://blackaddon.com/play/futvall-209.php?id=antena3int&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",A3 SERIES
+http://blackaddon.com/play/futvall-209.php?id=a3series&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",STAR TVE
+http://blackaddon.com/play/futvall-209.php?id=startve&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",TVE
+http://blackaddon.com/play/futvall-209.php?id=tve&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",GALAVISION
+http://blackaddon.com/play/futvall-209.php?id=galavision&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",GLITZ
+http://blackaddon.com/play/futvall-209.php?id=glitz&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",TELEMUNDO
+http://blackaddon.com/play/futvall-209.php?id=telemundo&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",TELEMUNDO Internacional
+http://blackaddon.com/play/futvall-209.php?id=telemundoint&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",UNIMAS
+http://blackaddon.com/play/futvall-209.php?id=unimas&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",AZ CORAZON
+http://blackaddon.com/play/futvall-209.php?id=azcorazon&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",A&amp;E
+http://blackaddon.com/play/futvall-209.php?id=ae&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",AXN
+http://blackaddon.com/play/futvall-209.php?id=axn&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",COMEDY CENTRAL
+http://blackaddon.com/play/futvall-209.php?id=comedy&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",Entertaiment
+http://blackaddon.com/play/futvall-209.php?id=e&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",FOX Channel
+http://blackaddon.com/play/futvall-209.php?id=starch&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",FOX LIFE
+http://blackaddon.com/play/futvall-209.php?id=starlife&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",FX
+http://blackaddon.com/play/futvall-209.php?id=fx&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",INVESTIGATION Discovery
+http://blackaddon.com/play/futvall-209.php?id=id&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",PASIONES
+http://blackaddon.com/play/futvall-209.php?id=pasiones&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",RCN Novelas
+http://blackaddon.com/play/futvall-209.php?id=rcntln&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",SONY Channel
+http://blackaddon.com/play/futvall-209.php?id=sony&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",TLNovelas
+http://blackaddon.com/play/futvall-209.php?id=tlnovelas&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",Tele Novelas
+http://blackaddon.com/play/futvall-209.php?id=univtln&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",TBS
+http://blackaddon.com/play/futvall-209.php?id=tbs&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",TNT Series
+http://blackaddon.com/play/futvall-209.php?id=tntseries&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",TRU TV
+http://blackaddon.com/play/futvall-209.php?id=trutv&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",UNIVERSAL TV
+http://blackaddon.com/play/futvall-209.php?id=universal&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",WARNER TV
+http://blackaddon.com/play/futvall-209.php?id=warner&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",AZ CINEMA
+http://blackaddon.com/play/futvall-209.php?id=azcinema&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",AMC
+http://blackaddon.com/play/futvall-209.php?id=amc&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",CINECANAL
+http://blackaddon.com/play/futvall-209.php?id=cinecanal&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",CINEMAX
+http://blackaddon.com/play/futvall-209.php?id=cinemax&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",DE PELICULA
+http://blackaddon.com/play/futvall-209.php?id=depelicula&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",DE PELICULA PLUS
+http://blackaddon.com/play/futvall-209.php?id=depeliculaplus&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",DHE
+http://blackaddon.com/play/futvall-209.php?id=dhe&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",EUROPA
+http://blackaddon.com/play/futvall-209.php?id=europa&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",FILM &amp; ARTS
+http://blackaddon.com/play/futvall-209.php?id=filmarts&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",FXM
+http://blackaddon.com/play/futvall-209.php?id=fxm&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",ISAT
+http://blackaddon.com/play/futvall-209.php?id=isat&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",MULTICINEMA
+http://blackaddon.com/play/futvall-209.php?id=mc&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",MULTIPREMIER
+http://blackaddon.com/play/futvall-209.php?id=mp&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",MORBIDO
+http://blackaddon.com/play/futvall-209.php?id=morbido&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",PARAMOUNT Channel
+http://blackaddon.com/play/futvall-209.php?id=paramount&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",SPACE
+http://blackaddon.com/play/futvall-209.php?id=space&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",STUDIO Universal
+http://blackaddon.com/play/futvall-209.php?id=studiouniversal&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",SYFY
+http://blackaddon.com/play/futvall-209.php?id=syfy&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",TCM
+http://blackaddon.com/play/futvall-209.php?id=tcm&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",TNT
+http://blackaddon.com/play/futvall-209.php?id=tnt&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",AZ MUNDO
+http://blackaddon.com/play/futvall-209.php?id=azmundo&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",ANIMAL Planet
+http://blackaddon.com/play/futvall-209.php?id=animalp&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",DISCOVERY Channel
+http://blackaddon.com/play/futvall-209.php?id=discoverych&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",Discovery SCIENCE
+http://blackaddon.com/play/futvall-209.php?id=dciencia&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",Discovery CIVILIZATION
+http://blackaddon.com/play/futvall-209.php?id=dcivil&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",Discovery THEATER
+http://blackaddon.com/play/futvall-209.php?id=dtheater&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",Discovery TURBO
+http://blackaddon.com/play/futvall-209.php?id=dturbo&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",Discovery WORLD
+http://blackaddon.com/play/futvall-209.php?id=dworld&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",FOOD Network
+http://blackaddon.com/play/futvall-209.php?id=food&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",EL GOURMET
+http://blackaddon.com/play/futvall-209.php?id=gourmet&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",LIFE TIME
+http://blackaddon.com/play/futvall-209.php?id=lifetime&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",HISTORY Channel
+http://blackaddon.com/play/futvall-209.php?id=history&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",Histrory 2
+http://blackaddon.com/play/futvall-209.php?id=h2&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",Home &amp; Health
+http://blackaddon.com/play/futvall-209.php?id=hh&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",HOLA TV
+http://blackaddon.com/play/futvall-209.php?id=holatv&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",MAS CHIC
+http://blackaddon.com/play/futvall-209.php?id=maschic&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",NATGEO
+http://blackaddon.com/play/futvall-209.php?id=natgeo&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",Natgeo WILD
+http://blackaddon.com/play/futvall-209.php?id=natgeowild&k=b1ackghoooooost&dos=.m3u8
+#EXTINF:-1 group-title="Lista 22",TLC Discovery
+http://blackaddon.com/play/futvall-209.php?id=tlc&k=b1ackghoooooost&dos=.m3u8
+
+
+
